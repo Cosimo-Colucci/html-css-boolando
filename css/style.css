@@ -17,6 +17,10 @@
 .flex-space{
     justify-content: space-between;
 }
+
+.conteiner{
+    width: 80%;
+}
 header{
     background-color: #ff6900;
     height: 70px;
