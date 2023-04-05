@@ -59,7 +59,7 @@ div.img-item{
 div.description{
     height: 15%;
     width: 100%;
-    background-color: blue;
+    text-align: left;
 }
 
 img{
