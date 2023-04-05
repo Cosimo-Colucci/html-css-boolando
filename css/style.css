@@ -27,3 +27,10 @@ nav ul{
 nav img{
     max-width: 30%;
 }
+
+
+div.item{
+    height: 200px;
+    width: 270px;
+    background-color: aqua;
+}
