@@ -9,11 +9,18 @@
     text-align: center;
 
 }
+
+.fixed{
+    position: fixed;
+    width: 100%;
+}
+
 .flex{
      display: flex;
      flex-direction: row;
      align-items: center;
 }
+
 .flex-space{
     justify-content: space-between;
 }
@@ -23,11 +30,16 @@
 }
 header{
     background-color: #ff6900;
-    height: 70px;
 }
 
 nav ul{
     list-style-type: none;
+    color: white;
+    line-height: 3rem;
+}
+
+li{
+    margin: .5rem;
 }
 
 nav img{
