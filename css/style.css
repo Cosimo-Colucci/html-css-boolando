@@ -47,22 +47,24 @@ nav img{
 }
 
 div.item{
-    height: 700px;
+    height: 638px;
     width: calc(100% / 3);
     background-color: aqua;
 }
 
 div.img-item{
-    height: 70%;
+    height: 85%;
     width: 100%;
-    background-color: black;
 }
 div.description{
-    height: 30%;
+    height: 15%;
     width: 100%;
     background-color: blue;
 }
 
+img{
+    max-width: 100%;
+}
 footer{
     background-color: #1a1a1a;
 }
