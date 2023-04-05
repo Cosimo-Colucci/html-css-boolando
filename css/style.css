@@ -8,9 +8,22 @@
     margin: 0 auto;
     text-align: center;
 }
+.flex{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+     align-items: center;
+}
 
 header{
-    background-color: orange;
+    background-color: #ff6900;
     height: 70px;
-    width: 100&;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav img{
+    max-width: 30%;
 }
