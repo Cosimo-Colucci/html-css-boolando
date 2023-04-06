@@ -44,6 +44,10 @@
     left: 37px;
 }
 
+.starred-sustenibility{
+    left: 0;
+}
+
 .discount{
     background-color: red;
     bottom: 30px;
