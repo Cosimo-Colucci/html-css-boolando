@@ -57,6 +57,7 @@
 
 header{
     background-color: #ff6900;
+    z-index: 1;
 }
 
 nav ul{
