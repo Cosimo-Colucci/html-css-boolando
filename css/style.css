@@ -25,9 +25,36 @@
     justify-content: space-between;
 }
 
-.conteiner{
+.container{
     width: 80%;
 }
+
+.box-container{
+    position: relative;
+}
+
+.box-container>div{
+    position: absolute;
+    margin: 1rem;
+}
+
+.sustenibility{
+    background-color: green;
+    bottom: 30px;
+    left: 37px;
+}
+
+.discount{
+    background-color: red;
+    bottom: 30px;
+    left: 0;
+}
+
+.heart{
+    top: 10px;
+    right: 0;
+}
+
 header{
     background-color: #ff6900;
 }
@@ -44,6 +71,10 @@ li{
 
 nav img{
     max-width: 20%;
+}
+
+main section:nth-child(1){
+    padding-top: 7rem;
 }
 
 div.item{
@@ -65,6 +96,7 @@ div.description{
 img{
     max-width: 100%;
 }
+
 footer{
     background-color: #1a1a1a;
 }
