@@ -79,9 +79,7 @@ main section:nth-child(1){
 }
 
 div.item{
-    height: 638px;
     width: calc(100% / 3);
-    background-color: aqua;
 }
 
 div.img-item{
